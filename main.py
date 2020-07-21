@@ -7,7 +7,7 @@ import os
 import math
 
 #define constants 
-chrome_driver = "/home/sridhar/Downloads/chromedriver"
+chrome_driver = "your path to chrome driver"
 
 #input query
 query = input("Image needed to download:")
